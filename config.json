@@ -1,13 +1,27 @@
 {
-  "TOKEN": "توكن_البوت",
-  "ticketCategoryID": "ايدي_الكاتاجوري",
-  "ticketNumber": 2,
-  "BACKGROUND": "صورة_الباجراوند",
-  "SECTIONS": [
-    {
-      "name": "اسم_القسم",
-      "roleID": "ايدي_الرتبة",
-      "image": "صورة_القسم"
-    }
-  ]
+ "ticketCategoryID": "1263398023883526194",
+ "ticketNumber": 3,
+ "BACKGROUND": "https://cdn.discordapp.com/attachments/1246348141238685797/1263345682048221245/background.png?ex=669a8e9a&is=66993d1a&hm=ed7dd2e10c2ade7befb64f0c47a78bbbd6a63e5a6a56c572a06a3af644dd1cf8&",
+ "SECTIONS": [
+  {
+   "name": "  📩الدعم الفني ",
+   "roleID": "1263703726942716056",
+   "image": "https://cdn.discordapp.com/attachments/1246348141238685797/1263345682048221245/background.png?ex=669a8e9a&is=66993d1a&hm=ed7dd2e10c2ade7befb64f0c47a78bbbd6a63e5a6a56c572a06a3af644dd1cf8&"
+  },
+  {
+   "name": "     ✖️مراجعة باند  ",
+   "roleID": "1124001124249256067",
+   "image": "https://cdn.discordapp.com/attachments/1246348141238685797/1263345682048221245/background.png?ex=669a8e9a&is=66993d1a&hm=ed7dd2e10c2ade7befb64f0c47a78bbbd6a63e5a6a56c572a06a3af644dd1cf8&"
+  },
+  {
+   "name": " 💸شراء منتج    ",
+   "roleID": "1254131539856592956",
+   "image": "https://cdn.discordapp.com/attachments/1246348141238685797/1263345682048221245/background.png?ex=669a8e9a&is=66993d1a&hm=ed7dd2e10c2ade7befb64f0c47a78bbbd6a63e5a6a56c572a06a3af644dd1cf8&"
+  },
+  {
+   "name": "  ⛔شكوى على اداري   ",
+   "roleID": "1123979001833201694",
+   "image": "https://cdn.discordapp.com/attachments/1246348141238685797/1263345682048221245/background.png?ex=669a8e9a&is=66993d1a&hm=ed7dd2e10c2ade7befb64f0c47a78bbbd6a63e5a6a56c572a06a3af644dd1cf8&"
+  }
+ ]
 }
